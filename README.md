@@ -6,7 +6,7 @@ Weather Reminder is a web app using Django framework to remind people of tomorro
 1.User sign up
 ![Alt text](image/sign_up.png)
 2. Add zip codes in your area to get weather information and send email
-![Alt text](img/main_function.png)
+![Alt text](image/main_function.png)
 
 
 ## Sending Email
